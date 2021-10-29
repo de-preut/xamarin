@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrZPyt8WmxnyFf8ARHalGoEqqvuwHN65jutAQ0EOWjGQbKatVQemQyrQ9UnWMaCREdK+nzj4u5KGi1GuOsuecw==",
+  "success": true,
+  "projectFilePath": "/Users/dsemedo/Projects/ShellTest/ShellTest.iOS/ShellTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dsemedo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dsemedo/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/dsemedo/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
