@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd6o/N8Ez6STqkJyY1Nt4Vo6noi/TN+MjXyIw2r2nNksjYFoZQ/qnjj8g6qVui9cmXBl0tBiPhsHkhtybkatEw==",
+  "dgSpecHash": "QWO1NFg2sZF0dQPnpx9XtQ6liDgoc/vYtDjEPqXGfczrWP1Y1PXKv/mxjgB4w/kUFxEKB8XB4DjPrX4/78FAFw==",
   "success": true,
-  "projectFilePath": "/Users/dsemedo/Projects/ShellTest/ShellTest/ShellTest.csproj",
+  "projectFilePath": "C:\\IPNreps\\xamarin\\ShellTest\\ShellTest\\ShellTest.csproj",
   "expectedPackageFiles": [
-    "/Users/dsemedo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/dsemedo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/dsemedo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/dsemedo/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/dsemedo/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\xamarin.forms\\5.0.0.7849\\xamarin.forms.5.0.0.7849.nupkg.sha512"
   ],
   "logs": []
 }
